@@ -1,8 +1,8 @@
-package com.luannycholas.controller;
+package com.siap.controller;
 
-import com.luannycholas.exceptions.ExceptionDTO;
-import com.luannycholas.models.User;
-import com.luannycholas.services.UserService;
+import com.siap.exceptions.ExceptionDTO;
+import com.siap.models.User;
+import com.siap.services.UserService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;

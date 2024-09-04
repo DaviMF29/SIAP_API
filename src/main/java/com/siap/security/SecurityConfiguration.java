@@ -1,6 +1,6 @@
-package com.luannycholas.security;
+package com.siap.security;
 
-import com.luannycholas.services.LoginService;
+import com.siap.services.LoginService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
